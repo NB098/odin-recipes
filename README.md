@@ -4,7 +4,14 @@ This project showcases three recipe webpages created using HTML and will soon be
 
  Within this project, you will find the following knowledge put into practice:
 
+<<<<<<< HEAD
 -HTML elements and tags.
 -HTML Boilerplate structure.
 -Accesibilty elements- Alt attribute for visually impaired users. 
 -Understanding the use of commit messages.
+=======
+- HTML elements and tags.
+- HTML Boilerplate structure.
+- Accesibilty elements- Alt attribute for visually impaired users. 
+- Understanding the use of commit messages.
+>>>>>>> a8bd0ef3b7df747a8a572722c4d4ac1c92f6113d
