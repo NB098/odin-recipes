@@ -1,6 +1,6 @@
 # odin-recipes
 
-This project showcases three recipe webpages created using HTML and will soon be futher developed with CSS and JavaScript.
+This project showcases three recipe webpages created using HTML and will soon be further developed with CSS and JavaScript.
 
  Within this project, you will find the following knowledge put into practice:
 
